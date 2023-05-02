@@ -42,3 +42,10 @@ Now, for the safety of autonomous ships, it is necessary to focus not only on th
   - RNN technique that uses a cell, input gate, output gate, and forget gate to prevent the vanishing gradient problem
 - Pandas
   - Software library written in Python for data manipulation and analysis.
+  
+## Project Topic
+- The focus of this project is on researching adversarial AI attacks and defense mechanisms for autonomous ships. Specifically, we aim to identify security vulnerabilities in AI systems used for autonomous ships, detect and defend against adversarial AI attacks. Our ultimate goal is to ensure the safety of autonomous ships by developing robust defense technologies against adversarial AI.
+
+- To begin, we will analyze the four main types of adversarial AI attacks (poisoning, evasion, model extraction, and data extraction) that commonly occur in AI systems. We will also examine the system architecture of autonomous ships and identify potential security weaknesses. In addition, we will collect information from ocean sensors such as AIS, RADAR, audio, and camera data to train generator and discriminator models using GANs to generate adversarial examples and detect them.
+
+- Based on the above research, we will develop defensive technologies to block and defend against adversarial AI attacks. We plan to expand our efforts by creating an application that receives real-time data from autonomous ships, evaluates AI image and video recognition results, and notifies the coastal control center when an attack is detected. Ultimately, our project aims to enhance the safety and security of autonomous ships through advanced research and innovative defense strategies against adversarial AI attacks.
