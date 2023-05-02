@@ -53,3 +53,8 @@ Now, for the safety of autonomous ships, it is necessary to focus not only on th
 ## Expected deliverables
 ![image](https://user-images.githubusercontent.com/107015573/235577903-f5018e81-8b59-4f16-aada-b69ad944db1f.png)
 - To develop defense capabilities for adversarial attacks on ships, the following process will be undertaken. First, the training data for both the attacker and defender will be updated. Next, adversarial attack examples will be uploaded to clean data to assess whether the resulting changes are detectable by human observation, which will be verified through crowd-sourcing. Finally, a DNN (Deep Neural Network) will be generated as a defense strategy, and testing will be conducted to evaluate the efficacy of the defense
+
+![image](https://user-images.githubusercontent.com/107015573/235577989-adcead35-5826-468f-88af-d7046daf6e65.png)
+- The presented results demonstrate the generation of adversarial examples for the MNIST dataset, verifying the vulnerability of the model. Each image includes a visual representation of the generated adversarial example, and the comparison of the model's predictions for the original and adversarial images in a bar graph, allowing for a visual understanding of how adversarial examples can alter the model's predictions.
+
+By executing adversarial attacks on the digits 7 and 3, it was possible to successfully manipulate the model to recognize the digit 7 as a 5, and increase the probability of the digit 3 being recognized as a 2 while maintaining its shape, as demonstrated in the results.
