@@ -57,4 +57,13 @@ Now, for the safety of autonomous ships, it is necessary to focus not only on th
 ![image](https://user-images.githubusercontent.com/107015573/235577989-adcead35-5826-468f-88af-d7046daf6e65.png)
 - The presented results demonstrate the generation of adversarial examples for the MNIST dataset, verifying the vulnerability of the model. Each image includes a visual representation of the generated adversarial example, and the comparison of the model's predictions for the original and adversarial images in a bar graph, allowing for a visual understanding of how adversarial examples can alter the model's predictions.
 
-By executing adversarial attacks on the digits 7 and 3, it was possible to successfully manipulate the model to recognize the digit 7 as a 5, and increase the probability of the digit 3 being recognized as a 2 while maintaining its shape, as demonstrated in the results.
+- By executing adversarial attacks on the digits 7 and 3, it was possible to successfully manipulate the model to recognize the digit 7 as a 5, and increase the probability of the digit 3 being recognized as a 2 while maintaining its shape, as demonstrated in the results.
+
+![image](https://user-images.githubusercontent.com/107015573/235578104-31be5888-db07-4108-bd24-306a15d08ae0.png)
+
+- The autonomous vessel sends real-time data to an application as it navigates through online and interconnected systems. Through the app, users can visually analyze the data from the autonomous vessel's journey and immediately verify whether or not it is well-protected against adversarial attacks. Additional features include an alarm function that alerts users when the vessel is under attack, as well as the ability to create and train adversarial attack samples using the sample generator depicted in the left-hand example image. The sample generator allows users to collect data related to the vessel's navigation, such as its coordinates and the distance between the vessel and other objects, while in operation, enabling them to create adversarial attack samples. With this, we expect the program to play a role similar to that of an antivirus program in protecting the vessel against adversarial attacks
+
+![image](https://user-images.githubusercontent.com/107015573/235578184-81d7e648-86a7-4059-a956-c285df3926a0.png)
+- Intentionally adding a slight amount of noise to a normal image can cause AI to misclassify it and perceive it as a completely different shape. While humans may hardly notice the difference between the image before and after the tampering, neural networks are vulnerable to adversarial AI attacks and can confidently misclassify the two images as different pictures. By training and practicing with existing adversarial AI samples, expected results can be derived.
+
+- Effective defense implementation against adversarial AI attacks and monitoring/protective features against such attacks are necessary in case of becoming a victim of adversarial AI attacks.
