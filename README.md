@@ -67,3 +67,10 @@ Now, for the safety of autonomous ships, it is necessary to focus not only on th
 - Intentionally adding a slight amount of noise to a normal image can cause AI to misclassify it and perceive it as a completely different shape. While humans may hardly notice the difference between the image before and after the tampering, neural networks are vulnerable to adversarial AI attacks and can confidently misclassify the two images as different pictures. By training and practicing with existing adversarial AI samples, expected results can be derived.
 
 - Effective defense implementation against adversarial AI attacks and monitoring/protective features against such attacks are necessary in case of becoming a victim of adversarial AI attacks.
+
+## Performance objectives
+- Presentation of a research paper
+  - Based on the research that ranges from the implementation of deep learning technology capable of filtering adversarial attacks by utilizing the information received from the AIS installed in autonomous ships to the development of defensive techniques against adversarial AI attacks, a paper titled "Identification and Defense Against Adversarial Attacks in Autonomous Ship Navigation" will be presented at an ICT mentoring-led academic conference. This paper will cover the study of identifying and defending against adversarial attacks that may occur during the operation of autonomous ships, and propose a method of analyzing AIS information and filtering adversarial attacks using deep learning technology
+
+- Program and app registration
+  - We will develop a dedicated application for adversarial attacks that receives real-time on-site data during autonomous navigation of ships and delivers the discrimination results of AI for video and image. The focus of this application is to identify and block adversarial attacks during the operation of autonomous ships, thereby improving the reliability and stability of AI algorithms and ensuring the safety of ship navigation. This application can be utilized in shipbuilding and related companies and will help provide countermeasures for adversarial attacks in the field of autonomous ship navigation
