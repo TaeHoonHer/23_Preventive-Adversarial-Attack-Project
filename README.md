@@ -1,6 +1,21 @@
 # 23_Preventive-Adversarial-Attack-Project
 Preventive Adversarial Attack Project
 
+### Topic Area
+- Smart Logistics
+
+### Technical Field
+- SW.AI
+
+### Project Goal
+- Competition (Smart Maritime Logistics Contest)
+
+### Achievement Goal
+- Thesis
+
+### Expected Duration
+- April 17, 2023 ~ November 15, 2023
+
 ## Project Introduction
 Artificial intelligence (AI) systems harbor security loopholes that pose an imminent threat to user safety. Consequently, we find ourselves in an era that demands the defense of AI systems from malicious adversaries.
 
