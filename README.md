@@ -20,3 +20,25 @@ Now, for the safety of autonomous ships, it is necessary to focus not only on th
 - Integrated monitoring of adversarial attacks and alerting function for situational awareness
 - AI protection and defense functions for AIS (Automatic Identification System), collision avoidance, and automatic berthing systems
 - Real-time defense situation updates on adversarial attacks through dedicated app that receives live on-site footage
+
+## Applied technologies
+- Python
+  - An interpreted, object-oriented, dynamically-typed, platform-independent language
+- Machine learning math
+  - Artificial intelligence mathematical theories such as gradient descent, backpropagation, loss function, activation function, etc.
+- Adversarial AI
+  - Techniques such as adversarial example generation, FGSM, adversarial training, etc. for defensive purposes
+- Scikit-learn
+  - Machine learning library for Python
+- TensorFlow Keras
+  - open-source neural network library written in Python
+- GAN
+  - Generative model where two neural networks, a generator and a discriminator, compete with each other during training
+- Deep learning
+  - Artificial neural network techniques such as gradient descent, backpropagation, loss function, activation function, CNN, RNN, LSTM, AutoEncoder, GAN
+- RNN
+  - Recurrent neural network that can model time-varying features by storing state information inside the network
+- LSTM
+  - RNN technique that uses a cell, input gate, output gate, and forget gate to prevent the vanishing gradient problem
+- Pandas
+  - Software library written in Python for data manipulation and analysis.
