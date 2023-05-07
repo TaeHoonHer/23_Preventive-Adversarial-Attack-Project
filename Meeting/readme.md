@@ -9,3 +9,6 @@
 >>- What is a feed-forward network?
 >>- Calculation formula
 >>- Explanation of input, weight, and bias.
+
+-05/27/2023
+  - offline
