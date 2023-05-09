@@ -15,3 +15,13 @@ AI: (Main) Hong Gil-dong / (Sub) Yi Yulgok
 
 - GitLab Related
   -  Submit two or more GitLab Alice education certificates (due on 5/15).
+
+
+#### 0510
+Preparations prior to the meeting:
+- Comprehensive comprehension of the requirements definition document and the use case diagram.
+- Thorough examination of relevant papers to analyze implementation techniques, user analysis, methodologies, benchmarking services, and functional analysis in order to prepare for composing the requirements definition document.
+
+>- Identification of the stakeholders who will show interest in the requirements.
+>- Identification of the responsible party who will handle the system maintenance and management after its deployment.
+>- Identification of the hardware and software that will interact with the system being developed.
